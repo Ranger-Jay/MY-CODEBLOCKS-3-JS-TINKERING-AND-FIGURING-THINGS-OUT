@@ -1,5 +1,6 @@
-// countless arrage methods in javascript
-// push is a method, a method is technically a function
+// countless array methods in javascript
+// push is a method.
+// NOTE: a method is technically a function
 // push - adds to the back of array
 const friends = ["mike", "steve", "pete"];
 const newLength = friends.push("Jay");
