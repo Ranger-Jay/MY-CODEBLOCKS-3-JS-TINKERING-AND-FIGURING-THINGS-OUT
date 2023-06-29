@@ -6,7 +6,7 @@ const friends = ["mike", "steve", "pete"];
 const newLength = friends.push("Jay");
 console.log(friends);
 console.log(newLength);
-//shift - adds to the front of an array
+//unshift - adds to the front of an array
 friends.unshift("john");
 console.log(friends);
 //pop - removes last element of an array
