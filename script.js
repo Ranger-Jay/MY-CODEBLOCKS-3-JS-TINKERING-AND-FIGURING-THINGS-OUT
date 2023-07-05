@@ -22,7 +22,7 @@ console.log(friends.indexOf("steve"));
 console.log(friends.indexOf("bob"));
 friends.push(23);
 console.log(friends.includes("steve"));
-console.log(friends.includes("boob"));
+console.log(friends.includes("bob"));
 console.log(friends.includes(23));
 console.log(friends.includes("23"));
 //most used case for includes.
